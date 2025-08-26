@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Noer Alim 👋</h1>
 
 <p align="center">
-  👨‍🎓 A university student aspiring to become a <strong>Backend Developer</strong> <br>
+  👨‍🎓 A university student aspiring to become a <strong>Fullstack Developer</strong> <br>
   💻 Passionate about <strong>Web Development</strong> and exploring <strong>AI</strong> <br>
 </p>
 
