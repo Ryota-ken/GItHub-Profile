@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor.ai-111827?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
